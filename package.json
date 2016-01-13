@@ -13,10 +13,21 @@
   "keywords": [
     "angular"
   ],
-  "author": "",
+  "author": "Michael Gardner <mgardner@sumtotalsystems.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SumTotalSystems/kcd-angular/issues"
   },
-  "homepage": "https://github.com/SumTotalSystems/kcd-angular"
+  "homepage": "https://github.com/SumTotalSystems/kcd-angular",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-angular-module": "0.0.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-filter": "^3.0.1",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1",
+    "rimraf": "^2.5.0"
+  }
 }
