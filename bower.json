@@ -5,7 +5,7 @@
     "Michael Gardner <mgardner@sumtotalsystems.com>"
   ],
   "description": "Angular things I made (or found/modified) and think are useful.",
-  "main": "dist/kcd-angular.js",
+  "main": "dist/kcd.js",
   "moduleType": [],
   "keywords": [
     "angular"
