@@ -1,0 +1,22 @@
+{
+  "name": "kcd-angular",
+  "homepage": "https://github.com/SumTotalSystems/kcd-angular",
+  "authors": [
+    "Michael Gardner <mgardner@sumtotalsystems.com>"
+  ],
+  "description": "Angular things I made (or found/modified) and think are useful.",
+  "main": "dist/kcd-angular.js",
+  "moduleType": [],
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

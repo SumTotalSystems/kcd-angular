@@ -1,0 +1,22 @@
+{
+  "name": "kcd-angular",
+  "version": "0.0.1",
+  "description": "Angular things I made (or found/modified) and think are useful.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SumTotalSystems/kcd-angular.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SumTotalSystems/kcd-angular/issues"
+  },
+  "homepage": "https://github.com/SumTotalSystems/kcd-angular"
+}
