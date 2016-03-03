@@ -1,5 +1,3 @@
-angular.module("kcd", ["kcd.directives"]), angular.module("kcd.directives", []),
-
 angular.module('kcd.directives')
   .directive('kcdRecompile', ['$parse', function ($parse) {
   	return {

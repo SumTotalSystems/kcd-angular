@@ -1,6 +1,6 @@
 {
   "name": "kcd-angular",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Angular things I made (or found/modified) and think are useful.",
   "main": "index.js",
   "scripts": {
