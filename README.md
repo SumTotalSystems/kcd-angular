@@ -1,5 +1,5 @@
 # kcd-angular
-This repository houses a Bower compatible version of http://kentcdodds.com/kcd-angular.
+This repository houses a Bower compatible version of http://kentcdodds.github.io/kcd-angular.
 
 ## Kent's Repo
 The code found here was "cherry-pick" from Kent Dobbs' [**kcd-angular** repository](https://github.com/kentcdodds/kcd-angular). The original repository contains examples and other items which make it not a great item to be used in a bower include. However, if you need to see how a specific utility is implemented then please see his examples pages.
