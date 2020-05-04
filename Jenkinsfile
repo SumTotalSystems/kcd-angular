@@ -11,8 +11,8 @@ node('linux') {
 }
 
 try {
-  if (env.BRANCH_NAME == "master" || env.BRANCH_NAME.startsWith('v')) {
-      build job: 'Foundation Controls (Nightly)/' + "develop", wait: false
+  if (env.BRANCH_NAME == "master" || env.BRANCH_NAME.startsWith('v') || env.BRANCH_NAME.startsWith('SS')) {
+      build job: 'Foundation Controls(GitHub_develop)', wait: false
   }
 } catch(e) {
   echo 'Unable to find the Foundation control branch for downstream building. Not failing the build for this...'
